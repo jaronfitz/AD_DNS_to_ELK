@@ -48,7 +48,8 @@ http://syspanda.com/index.php/2017/02/07/incorporating-virustotal-data-to-elasti
 
 #Useful article for winrm reference if you want to take that further. https://geeksilver.wordpress.com/2016/01/15/create-eventlog-forwarding-and-winrm/
 
-#se this link for a little information on Windows Event log forwarding. http://edbaker.weebly.com/blog/windows-and-logstash-quick-n-dirty
+#Use this link for a little information on Windows Event log forwarding. 
+http://edbaker.weebly.com/blog/windows-and-logstash-quick-n-dirty
 
 #I'm honestly not sure how my packetbeat.template.json that returns when I run "curl localhost:9200/_template/packetbeat*?pretty" is different than the one in your packetbeat folder on Windows. I may have uploaded a custom one that I don't have a link for.  The mapping parts are very confusing to me.  If you understand better please hit me up and explain.
 #Try the included packetbeat.template.json file and if it doesn't work try the one included already.
@@ -78,5 +79,5 @@ amazing how little power an elasticsearch server needs to quickly search through
 
 
 Check the pictures for my simple visualization and saved search.
-If you have any questions or can help me out with some confusion on setting templates and mappings message nocommentacct on reddit.
+
 
