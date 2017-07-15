@@ -1,4 +1,3 @@
-README
 This will hopefully help anyone go from having a single box ELK setup to visualizing their AD DNS server requests.
  
 #I include all the sources I have saved but a majority of the "work" I put into this was piecing together what multiple others shared. Feel free to share this. 
